@@ -1,0 +1,17 @@
+{
+  "name": "BallClock v3",
+  "about": "Часы из шариков для пинг-понга",
+  "version": "1.34",
+  "notes": "Релиз",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/AlexGyver/BallClock/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
